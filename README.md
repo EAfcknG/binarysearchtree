@@ -1,0 +1,1 @@
+www.patika.dev aracılığı ile işlenen Front-End Web Development dersi altındaki Veri Analizi ve Algoritmalar son ödevi 
